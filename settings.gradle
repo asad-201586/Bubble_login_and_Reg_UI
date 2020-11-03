@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Bubble_login_and_Reg_UI"
